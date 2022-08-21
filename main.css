@@ -1,0 +1,40 @@
+.container{
+  
+}
+.repper{
+  
+  background-repeat: no-repeat;
+  
+  display: flex;
+  
+}
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.item{
+  list-style-type: none;
+  display: flex;
+  align-items:center;
+  word-spacing:3px;
+}
+.link{
+  color: grey;
+  text-decoration: none;
+  margin-right: 20px;
+  text-transform: lowercase;
+    word-spacing:3px;
+}
+.git{
+  
+
+  display:
+}
+.button{
+  background-color: grey;
+  font-size: 2rem;
+  font-weight: 80;
+  border-radius: 15px 15px 15px 0 ;
+  
+}
